@@ -1,1 +1,2 @@
-# Repository to store sample Python programs.
+#Detailed Python Repositor
+y
