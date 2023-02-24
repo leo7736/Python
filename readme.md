@@ -1,2 +1,1 @@
-#Detailed Python Repositor
-y
+#Detailed Python Repository
