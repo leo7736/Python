@@ -5,7 +5,7 @@ Some of the key findings from this project include:
 
 
 
-🍽️ The most popular cuisines in the dataset are North Indian, Chinese, and Fast Food.
+🍽️ The most popular cuisines in the dataset are  Cafe, Italian and North Indian
 
 
 
