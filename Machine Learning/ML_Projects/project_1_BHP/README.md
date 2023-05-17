@@ -25,7 +25,7 @@ This Model / Project / Web app predicts the price of a Real Estate property / Ho
 *Added new data based on domain knowledge.
 <br>
 
-+<b>3. Exploratory Data Analysis (EDA): -</b>
+<b>3. Exploratory Data Analysis (EDA): -</b>
 
 *Conducted data analysis based on domain knowledge. Please refer to the Jupyter file for detailed insights.
 </br></br>
