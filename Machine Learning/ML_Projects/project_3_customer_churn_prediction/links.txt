@@ -1,0 +1,4 @@
+Model Deployed: http://16.16.216.242:8501/
+
+
+datet link: https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
