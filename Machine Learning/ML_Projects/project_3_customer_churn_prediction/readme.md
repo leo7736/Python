@@ -5,6 +5,8 @@
 
 This project aims to develop an end-to-end web application for predicting bank customer churn using the Random Forest algorithm. The application is built with Streamlit and deployed on AWS EC2 cloud.
 
+[Web App Link](http://16.16.216.242:8501/)
+
 ## Project Overview
 
 The project focuses on predicting customer churn in a bank, which is a critical task for businesses to identify and retain valuable customers. The Random Forest algorithm is utilized for its ability to handle complex datasets and provide accurate predictions.
