@@ -73,6 +73,7 @@ To run the web app locally, follow these steps:
 
 The web app is deployed on AWS EC2. You can access it using the following link: [Web App Link](http://16.16.216.242:8501/).
 
+Demo Link : [Link](https://drive.google.com/file/d/12o4VAA0FVL1fEQDMZBIdsw9-GML1zfUt/view)
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue.
