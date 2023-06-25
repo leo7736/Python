@@ -68,6 +68,9 @@ The model building process involves the following steps:
 
 The project has been deployed on AWS EC2. You can access the deployed web app to predict house prices by visiting the provided URL.
 
+
+Demo Link : [Link](https://drive.google.com/file/d/1YFHyrM_bPu2dFof5wb0gUAKlxvVRzaRD/view?usp=sharing)
+
 ## Conclusion
 
 This project demonstrates the use of Multiple Linear Regression for predicting house prices in Bangalore. By leveraging various features, the model provides estimates of house prices, enabling users to make informed decisions in the real estate market.
