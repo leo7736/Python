@@ -56,3 +56,6 @@ Accidents are most frequent from September to December.
 
 Coastal regions experience a higher occurrence of accidents compared to landlocked areas.
 The application of EDA to US accident data not only unveils these valuable insights but also potentially contributes to accident prevention strategies. By comprehensively understanding accident patterns, stakeholders can work towards making roads safer and more secure.
+
+## Dataset:
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
