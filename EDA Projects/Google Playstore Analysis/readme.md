@@ -2,7 +2,7 @@
 
 <!-- Project Highlights -->
 <p align="center">
-  <img src="https://leo7736.github.io/images/zomato.jpg" alt="Zomato Dataset">
+  <img src="https://github.com/leo7736/Python/blob/main/EDA%20Projects/Google%20Playstore%20Analysis/Google_Play_logo_PNG4.png" alt="Gplay">
 </p>
 
 I am excited to share that I've completed an EDA (Exploratory Data Analysis) project on Google Play Store analysis using Jupyter Notebook!
